@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Namrata-mahakhud
-- 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on new front end projects
-- 📫 Rich me on my mail: namy2710@gmail.com
+- 👀 I’m a QA professional
+- 🌱 I’m currently learning Mocha framework
+- 💞️ I’m looking to collaborate on new autonation projects
+- 📫 Reach me on my mail: namy2710@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Why do programmers prefer dark mode? Because light attracts bugs! 😄
 
