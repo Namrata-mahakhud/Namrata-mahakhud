@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Namrata-mahakhud
-- 👀 I’m a QA professional
-- 🌱 I’m currently learning Mocha framework
-- 💞️ I’m looking to collaborate on new autonation projects
+- 👀 I’m a SDET professional
+- 🌱 I’m currently learning Full Stack Automation alongwith Docker and Kubernetes
+- 💞️ I’m looking to collaborate on new automation projects
 - 📫 Reach me on my mail: namy2710@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Why do programmers prefer dark mode? Because light attracts bugs! 😄
